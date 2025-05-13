@@ -1,9 +1,12 @@
 body{
+	border-style: solid;
+	border-color: #006BD2;
 	color: #000000;
 	background-color: #ffffff;
 	scrollbar-base-color: #ffffff;
 	scrollbar-arrow-color: #0088ff;
-	background-repeat: repeat-x;
+	font-family: "Arial";
+background-repeat: repeat-x;
 
 }
 a:link {color: #ff8800; text-decoration: none; }
